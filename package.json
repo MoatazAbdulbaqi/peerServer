@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "node-http": "^0.0.5",
-    "peer": "0.3.2)"
+    "peer": "0.3.2"
   }
 }
